@@ -1,0 +1,21 @@
+berlin52:
+t0=97 tf=3 alpha=0.99 markov=10000 kk=1
+Ebest=7542
+
+rat99
+t0=127 tf=2 alpha=0.99 markov=15000 kk=0.8
+Ebest=1221
+
+pr107
+t0=147 tf=2 alpha=0.9 markov=20000 kk=0.75
+Ebest=44303
+
+
+
+
+
+
+
+
+PS£ºMore data on the TSPLIB website:
+http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/
